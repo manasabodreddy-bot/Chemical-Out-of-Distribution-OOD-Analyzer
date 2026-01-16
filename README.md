@@ -11,7 +11,7 @@ This tool quantifies the **Applicability Domain** of Machine Learning models in 
 - **Goal:** For each test molecule, calculate the maximum similarity to any molecule in the reference (training) set.
 
 ## Key Results
-![OOD Analysis Plot](ood_analysis_plot.png)
+![OOD Analysis Plot](ood_plot.png)
 
 The analysis flags molecules with a Max Tanimoto Similarity below **0.5** as "structural outliers." This diagnostic is critical for robust autonomous discovery pipelines as pursued in the **LowDataML Network**.
 
