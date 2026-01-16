@@ -17,4 +17,4 @@ The analysis flags molecules with a Max Tanimoto Similarity below **0.5** as "st
 
 ## How to Run
 1. Install dependencies: `pip install rdkit pandas matplotlib seaborn`
-2. Run the script: `python ood_analyzer.py`
+2. Run the script: `ood_analyzer.py.py`
