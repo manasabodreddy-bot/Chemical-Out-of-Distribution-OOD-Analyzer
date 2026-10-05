@@ -1,4 +1,11 @@
 # Chemical-OOD-Analyzer
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23153359.svg)](https://doi.org/10.5281/zenodo.23153359)
+
+Evaluating Molecular Out-of-Distribution Detection Under Scaffold Shift:
+A Reproducible Baseline Study
+
+# Chemical-OOD-Analyzer
 Out-of-Distribution (OOD) analysis for chemical datasets using Tanimoto Similarity and RDKit.
 # Chemical Out-of-Distribution (OOD) Analyzer
 
@@ -18,3 +25,9 @@ The analysis flags molecules with a Max Tanimoto Similarity below **0.5** as "st
 ## How to Run
 1. Install dependencies: `pip install rdkit pandas matplotlib seaborn`
 2. Run the script: `ood_analyzer.py.py`
+
+## Citation
+
+Manasa B. (2026). *Evaluating Molecular Out-of-Distribution Detection
+Under Scaffold Shift: A Reproducible Baseline Study*.
+Zenodo. https://doi.org/10.5281/zenodo.23153359
